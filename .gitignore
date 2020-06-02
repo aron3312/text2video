@@ -1,0 +1,7 @@
+.idea
+__pycache__
+other
+*.json
+*.mp4
+*.mp3
+*.avi
