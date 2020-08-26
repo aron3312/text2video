@@ -8,7 +8,7 @@ from video_util.txt2speech import *
 
 
 if __name__ == '__main__':
-    video_name = "95qa4qj"
+    video_name = "test"
     if not os.path.exists(os.path.join('output_project', video_name)):
         os.makedirs(os.path.join('output_project', video_name))
     txt2speech(project_name=video_name)
